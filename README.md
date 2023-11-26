@@ -1,6 +1,17 @@
 # Project_3-IMDb_Analysis
 
-Business Problem: For this project, you have been hired to produce a MySQL database on Movies from a subset of IMDB's publicly available dataset. Ultimately, you will use this database to analyze what makes a movie successful and will provide recommendations to the stakeholder on how to make a successful movie.
+# PART1
+Creating my project repository, loading the official IMDB data for the requested tables, filtering out unnecessary data, and saving the filtered tables as gzip-compressed csv files (".csv.gz") in my repository.
+
+# PART2
+Create a new MySQL database after preparing the data for a relational database & Export the database to a .sql file in your repository using MySQL Workbench.
+
+# PART3
+Apply hypothesis testing to explore what makes a movie successful.
+
+-------------
+
+**Business Problem:** For this project, you have been hired to produce a MySQL database on Movies from a subset of IMDB's publicly available dataset. Ultimately, you will use this database to analyze what makes a movie successful and will provide recommendations to the stakeholder on how to make a successful movie.
 
 ## Data Location
 The dataset files can be accessed and downloaded from [IMDb Site](https://datasets.imdbws.com/). The data is refreshed daily.
